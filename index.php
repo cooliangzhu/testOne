@@ -1,6 +1,7 @@
 <?php
 /***
- * for git test
+ * for git test 
+ * write on server
 */
 
 
