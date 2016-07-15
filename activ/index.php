@@ -18,5 +18,5 @@ class foo
 		echo "hello one";
 	}
 }
-$foo = new foo;
+$foo = new foo();
 $foo -> sayhello();

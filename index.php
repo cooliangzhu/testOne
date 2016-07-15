@@ -2,7 +2,7 @@
 /***
  * for git test. is over 改变多一些 On server. 
  * write on server
- * i have a new activ
+ * i have an new activ
 */
 
 
