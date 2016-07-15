@@ -1,6 +1,6 @@
 <?php
 /***
- * for git test. is over. 
+ * for git test. is over.  On server
  * write on server
 */
 phpinfo();
